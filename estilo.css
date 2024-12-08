@@ -115,34 +115,3 @@
     top: 1100px;
     bottom: 20px;
 }
-@media (max-width: 768px) {
-  nav {
-    flex-direction: column;
-  }
-
-  .container {
-    padding: 10px;
-  }
-
-  header {
-    padding: 15px;
-  }
-
-  main {
-    padding: 10px;
-  }
-}
-
-@media (max-width: 480px) {
-  nav a {
-    padding: 10px;
-  }
-
-  header {
-    font-size: 18px;
-  }
-
-  main {
-    padding: 5px;
-  }
-}
